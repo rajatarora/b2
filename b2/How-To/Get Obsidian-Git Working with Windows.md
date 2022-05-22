@@ -13,4 +13,4 @@ The crux of the solution is to have the OS _save_ the passphrase somehow. In Win
 - Setting up an environment variable `GIT_SSH` and pointing it to the Windows OpenSSH installation (right up to `ssh.exe`). The other `ssh.exe` path would be the one supplied with Git For Windows. We have to disregard that.
 - Running `ssh add` on the command prompt and entering the passphrase of your private key.
 - Testing it in a _new_ command window and making sure that you can push without entering the passphrase.
-- 
+- Restarting Obsidian and testing the Obsidian-Git functionality.
