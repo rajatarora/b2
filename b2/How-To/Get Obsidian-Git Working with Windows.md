@@ -3,4 +3,7 @@ Obsidian-Git requires a careful orchestration of Git settings, otherwise it fail
 
 The error keeps coming: `permission denied (publickey). Make sure you have correct access rights and the repository exists.`
 
-The problem is with the passphrase. When you push something from the command line, you have to enter the passphrase at the prompt. This step obviously doesn't happen in the background push done by Obsidian-Git plugin. Hence
+The problem is with the passphrase. When you push something from the command line, you have to enter the passphrase at the prompt. This step obviously doesn't happen in the background push done by Obsidian-Git plugin. Hence the issue.
+
+## Solution
+The crux of the solution is to have the OS _save_ the passphrase somehow. 
