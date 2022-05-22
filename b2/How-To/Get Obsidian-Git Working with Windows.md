@@ -8,4 +8,5 @@ The problem is with the passphrase. When you push something from the command lin
 ## Solution
 The crux of the solution is to have the OS _save_ the passphrase somehow. In Windows 11, it can be achieved by:
 - Making sure OpenSSH is installed (it usually is)
-- 
+- The service OpenSSH Authentication Agent is started, as well as set to start automatically on logon.
+- Running `where ssh` 
