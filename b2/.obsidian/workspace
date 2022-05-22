@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inbox/Here be dragons.md",
+            "file": "How-To/Untitled.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Here be dragons.md",
+                "file": "How-To/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Here be dragons.md",
+                "file": "How-To/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +113,7 @@
   },
   "active": "b04f438a75c07373",
   "lastOpenFiles": [
-    "Inbox/Here be dragons.md"
+    "How-To/Untitled.md",
+    "0-Inbox/Here be dragons.md"
   ]
 }
