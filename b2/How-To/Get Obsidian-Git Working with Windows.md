@@ -9,4 +9,5 @@ The problem is with the passphrase. When you push something from the command lin
 The crux of the solution is to have the OS _save_ the passphrase somehow. In Windows 11, it can be achieved by:
 - Making sure OpenSSH is installed (it usually is)
 - The service OpenSSH Authentication Agent is started, as well as set to start automatically on logon.
-- Running `where ssh` 
+- Running `where ssh` and noting down the path(s) of `ssh.exe`.
+- Setting up an environment variable `GIT_SSH` and pointing it to the Windows OpenSSH installation (right up to `s`)
