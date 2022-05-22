@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "199a78b78425e8b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b04f438a75c07373",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inbox/Here be dragons.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39a772e908045986",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e4d7da25035de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c11e345f533e87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0790ca0347a72ba5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b16cf360eaf1f5c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "114425f84a6ded9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "815ac3733bc15f14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/Here be dragons.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3241c00fcba3cb57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inbox/Here be dragons.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d6dce6f1d844ddd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b04f438a75c07373",
+  "lastOpenFiles": [
+    "Inbox/Here be dragons.md"
+  ]
+}
