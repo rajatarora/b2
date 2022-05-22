@@ -4,4 +4,6 @@ This was followed by some long-form writing (> 5k words) in the form of _That Ni
 
 ... actually no. I did build up an Obsidian practice in 2020.
 
-All of this amounts to some 200,000 words _to the very least_. Still, as of today (22 May 2022), I can't produce a _definitive_ body of work of mine. It _exists_... _somewhere_, I'm sure. But I don't have an easy access to it. 
+All of this amounts to some 200,000 words _to the very least_. Still, as of today (22 May 2022), I can't produce a _definitive_ body of work of mine. It _exists_... _somewhere_, I'm sure. But I don't have an easy access to it. It is not _at one place_.
+
+Talking Talking and Rajat's Diary no longer exi
