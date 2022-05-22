@@ -6,4 +6,4 @@ This was followed by some long-form writing (> 5k words) in the form of _That Ni
 
 All of this amounts to some 200,000 words _to the very least_. Still, as of today (22 May 2022), I can't produce a _definitive_ body of work of mine. It _exists_... _somewhere_, I'm sure. But I don't have an easy access to it. It is not _at one place_.
 
-Talking Talking and Rajat's Diary no longer exist. TT is completely lost :(, but there are a few posts of Rajat's Diary which survive in my trusty dropbox folder. Dropbox also has 
+Talking Talking and Rajat's Diary no longer exist. TT is completely lost :(, but there are a few posts of Rajat's Diary which survive in my trusty dropbox folder. Dropbox also has some letters and stuff from 
