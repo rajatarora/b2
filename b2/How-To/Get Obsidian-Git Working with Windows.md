@@ -10,4 +10,5 @@ The crux of the solution is to have the OS _save_ the passphrase somehow. In Win
 - Making sure OpenSSH is installed (it usually is)
 - The service OpenSSH Authentication Agent is started, as well as set to start automatically on logon.
 - Running `where ssh` and noting down the path(s) of `ssh.exe`.
-- Setting up an environment variable `GIT_SSH` and pointing it to the Windows OpenSSH installation (right up to `s`)
+- Setting up an environment variable `GIT_SSH` and pointing it to the Windows OpenSSH installation (right up to `ssh.exe`). The other `ssh.exe` path would be the one supplied with Git For Windows. We have to disregard that.
+- Running `ssh add` on the 
