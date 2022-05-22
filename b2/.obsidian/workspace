@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How-To/Untitled.md",
+            "file": "How-To/Get Obsidian-Git Working with Windows.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How-To/Untitled.md",
+                "file": "How-To/Get Obsidian-Git Working with Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How-To/Untitled.md",
+                "file": "How-To/Get Obsidian-Git Working with Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
   },
   "active": "b04f438a75c07373",
   "lastOpenFiles": [
-    "How-To/Untitled.md",
+    "How-To/Get Obsidian-Git Working with Windows.md",
     "0-Inbox/Here be dragons.md"
   ]
 }
