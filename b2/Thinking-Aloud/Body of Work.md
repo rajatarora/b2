@@ -2,4 +2,6 @@ I have written quite a lot in my life time. More than an average person anyway. 
 
 This was followed by some long-form writing (> 5k words) in the form of _That Night_, letters to Tanya and Neha, and the pièce de résistance -- the IVP Memoirs in 2019. After that I've hardly written anything, unless you count some random shit in my diary, and that bug-busting story in CB.
 
-All of this amounts to some 200,000 words _to the very least_. Still, as of today ()
+... actually no. I did build up an Obsidian practice in 2020.
+
+All of this amounts to some 200,000 words _to the very least_. Still, as of today (22 May 2022), I can't produce a _definitive_ body of work of mine. It _exists_... _somewhere_, I'm sure. But I don't have an easy access to it. 
